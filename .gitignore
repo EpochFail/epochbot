@@ -1,0 +1,7 @@
+.rvmrc
+*.db
+.DS_Store
+config.yml
+.eprj
+.ruby-version
+config.yml
