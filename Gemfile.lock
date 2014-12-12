@@ -1,11 +1,4 @@
 GIT
-  remote: git://github.com/jdpace/weatherman.git
-  revision: 7541bc6445cec385b40a5a6d98309a0dca27efe6
-  specs:
-    weatherman (0.1.2)
-      xml-simple (>= 1.0.11)
-
-GIT
   remote: git@github.com:thorncp/rubot.git
   revision: d6c0947fd6ee7494228f313a572ee897596fd6be
   specs:
@@ -77,7 +70,6 @@ GEM
       json (>= 1.4.6)
       nokogiri (>= 1.4.4)
       typhoeus (>= 0.2.1)
-    xml-simple (1.1.0)
 
 PLATFORMS
   ruby
@@ -96,5 +88,4 @@ DEPENDENCIES
   rufus-scheduler
   text
   tinyurl
-  weatherman!
   wordnik
